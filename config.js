@@ -58,19 +58,19 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/'
+global.pdana = '6282350060897' //dana
+global.povo = '6285246010059' //ovo
+global.pgopay = '6282350060897' //gopay
+global.plinkaja = 'GADA' //link aja
+global.ppulsa = '6282350060897' //telkomsel
+global.ppulsa2 = '6285845575733' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/alifyt'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorbot = '6285845575733'
+global.nomorown = '6285845575733'
+global.namebot = 'AlifBotz'
+global.nameown = 'ALIF-MD'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'RaaaGH' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
+  ['6285845575733', 'alif', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
